@@ -61,18 +61,18 @@ A phonetic study analyzing **Voice Onset Time (VOT)** in Marathi **coronal** and
 
 ```
 VOT-Analysis-of-Marathi/
-├── 📂 Final Sound & Textfiles/           #  Final audio & Praat TextGrid files used in analysis
-    ├── 📂 Recordings  # Processed mono-audio files
-    ├── 📂 TextGrids          # Processed TextGrid annotations
-├── 📂 Audio files/           # 
-    ├── 📂 orginal recordings  # Raw recordings from participants
-    ├── 📂 wav files          # Converted .wav versions of original files (unprocessed)
+├── 📂 Final Sound & Textfiles/             #  Final audio & Praat TextGrid files used in analysis
+    ├── 📂 Recordings                       # Processed mono-audio files
+    ├── 📂 TextGrids                        # Processed TextGrid annotations
+├── 📂 Audio files/           
+    ├── 📂 original recordings               # Raw recordings from participants
+    ├── 📂 wav files                        # Converted .wav versions of original files (unprocessed)
 ├── 📂 Visualizations/
-│   └── distribution across stop types.jpg     # Boxplot comparing voiced vs. voiceless stops
-├── 📄 A Study on the VOT... # Complete project report (PDF)
-├── 📄 Male vot.xlsx        # Calculated VOT values for male speakers
-├── 📄 Marathi Word List.pdf # Word list used for data collection
-└── 📄 README.md            # This file
+│   └── distribution across stop types.jpg   # Boxplot comparing voiced vs. voiceless stops
+├── 📄 A Study on the VOT...                 # Complete project report (PDF)
+├── 📄 Male vot.xlsx                         # Calculated VOT values for male speakers
+├── 📄 Marathi Word List.pdf                 # Word list used for data collection
+└── 📄 README.md                             # This file
 ```
 
 ---
