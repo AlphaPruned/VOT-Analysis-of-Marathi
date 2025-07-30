@@ -115,10 +115,10 @@ The study includes comprehensive statistical analysis of VOT measurements across
 ## 🔍 Sample Results
 
 ### 📷 Boxplot: Distribution Across Stop Types  
-*(Located at `/Visualizations/distribution_stoptypes.png`)*  
+*(Located at `/Visualizations/distribution_across_stop_types.jpg`)*  
 This plot shows the VOT distribution of **voiced vs. voiceless** stops across all speakers.
 
-![Distribution Across Stop Types](./Visualizations/distribution across stop types.jpg)
+![Distribution Across Stop Types](./Visualizations/distribution_across_stop_types.jpg)
 
 ---
 
